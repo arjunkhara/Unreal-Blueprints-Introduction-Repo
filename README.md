@@ -7,3 +7,5 @@ The Empty Actor Asset is the most basic function of the program, an artefact tha
 When creating a blueprint: click on the actor, open the Select Path Window, then add blueprint from the dropdown menu. The blueprint will be created in the tray below.
 
 Linking between actors and commands in blueprints requires the event graph and connecting all listeners so that the individual components and actors to which they are attached, work in unison through the logic network.
+
+When it comes to blueprints, always follow the white line. It tells the story of the action. The other frame windows are for support structures built around the main story (white line). Also consider the timeline, which essentially roves the actions created within blueprints over time. Always follow the white line to chart the progress of any action, then consider the time over which the action will occur - in this case the door that opens (ie the action) and the time over which the door opens.
